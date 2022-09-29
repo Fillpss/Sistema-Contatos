@@ -1,0 +1,72 @@
+* {
+    color: white; 
+    font-family: sans-serif;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: #1d212a;
+}
+
+.display-4 {
+    margin-top: 50px;
+}
+
+table {
+    margin-top: 40px;
+}
+
+.btn-add {
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+.btn-back {
+    width: 92.7px;
+}
+
+.form-control {
+    max-width: 500px;
+    margin: auto;
+}
+
+label {
+    margin: auto;
+    margin-top: 10px;
+    max-width: 500px;
+}
+
+.input-with-margin-bottom {
+    margin-bottom: 40px;
+}
+
+.btn-back {
+    width: 92.7px;
+}
+
+.btn-edit {
+    width: 90.9166px;
+}
